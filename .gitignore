@@ -1,0 +1,24 @@
+/dist
+
+# Project
+.vscode/
+build/
+
+# Executables
+/kubelog
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Go debug bin
+__debug_bin
+
+# Other
+.DS_Store
