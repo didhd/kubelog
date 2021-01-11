@@ -23,7 +23,7 @@ See `kubelog --help` for details.
 Install (and update) the package with:
 
 ```bash
-$ go get -u github.com/didhd/kubelog
+$ go get github.com/didhd/kubelog/...
 ```
 
 By default it will be in `$GOPATH/bin`, if you want to change that, you can set your `$GOPATH` or `$GOBIN`.
